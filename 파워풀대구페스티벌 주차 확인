@@ -3,3 +3,6 @@ git add .
 git commit -m "Initial commit"
 git remote add origin https://github.com/파워풀대구페스티벌/파워풀대구페스티벌 주차 확인.git
 git push -u origin master
+git add requirements.txt
+git commit -m "Add requirements.txt"
+git push
